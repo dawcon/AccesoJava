@@ -1,0 +1,12 @@
+
+public class ClaseDAW1 {
+
+	@SuppressWarnings("unchecked")
+	public static void main(String[] args) {
+		// esto no se que es.
+		String profesor = "Luis de Blas";
+		
+		String al01 = "Andrei";
+	}
+
+}
